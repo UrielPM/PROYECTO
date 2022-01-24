@@ -3,12 +3,11 @@
    <h3 align="center">¡Hey 👋! Soy Uriel Mora 👨🏻‍💻</h3>
 </p>
 
-<p align="center"><strong>Desarrollador Web Full Stack</strong> <br /> </p>
+<p align="center"><strong> Full Stack Developer</strong> <br /> </p>
 
 <p>
-   Soy proactivo y autodidacta, me considero una persona apasionada por la tecnología y sobre todo amante del conocimiento y superación personal, 
-siempre en busca de desafíos que permitan superarme día con día.
-
+  Full Stack Developer, Enthusiastic for interface design and development of client/server platforms from scratch, experience on back-end and front-end systems.
+Specialties: Back-end and front-end development, user interface design, hardware design and development.
 </p>
 
 
