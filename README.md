@@ -27,7 +27,7 @@ Specialties: Back-end and front-end development, user interface design, hardware
 </br>
 [![JSON](https://img.shields.io/badge/JSON-1575F9?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 [![Jquery](https://img.shields.io/badge/Jquery-1575F9?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
-
+ 
 
 
 
