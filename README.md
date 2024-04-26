@@ -37,6 +37,7 @@ Specialties: Back-end and front-end development, user interface design, hardware
       <a href="https://github.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/></a>
       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postmam"width="45" height="45"/></a>
       <a href="https://jetbrains.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="45" height="45"/></a>
-      <a href="https://code.visualstudio.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/></a>   
+      <a href="https://code.visualstudio.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/></a> 
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
   </p>
-</div>
+</div> 
